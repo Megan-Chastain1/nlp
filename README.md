@@ -131,3 +131,8 @@ git push -u origin main
 ## Example Artifact (Output)
 
 ![Word Cloud Example](docs/images/word_cloud_example.png)
+
+## Updates
+
+- Give credit to the authors who worked on the project, including yourself.
+- Change the frequency bar chart to reflect the top 5 words
